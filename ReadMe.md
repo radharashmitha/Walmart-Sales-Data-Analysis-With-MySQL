@@ -43,10 +43,10 @@ The primary objectives of this project are as follows:
 -	Create tables and insert data.
 - Set NOT NULL constraints to filter out null values.
 ### **3.	Feature Engineering:**
-**-	Add new columns:**
-   **- time_of_day:** Insight into sales during morning, afternoon, and evening.
-	 **- day_name:** Extracted days of the week (Mon, Tue, Wed, Thur, Fri) to analyze weekly patterns.
-   **-  month_name:** Extracted months (Jan, Feb, Mar) to determine peak sales months.
+   - **Add new columns:**
+   - **time_of_day:** Insight into sales during morning, afternoon, and evening
+   - **day_name:** Extracted days of the week (Mon, Tue, Wed, Thur, Fri) to analyze weekly patterns.
+   - **month_name:** Extracted months (Jan, Feb, Mar) to determine peak sales months.
 ### **4.	Exploratory Data Analysis (EDA):** 
 -	Answer project-specific questions using data insights.
   
