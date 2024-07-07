@@ -14,7 +14,7 @@ The primary objectives of this project are as follows:
    
 ## **Dataset Description**
 -	The dataset contains sales transactions from three Walmart branches located in Mandalay, Yangon, and Naypyitaw.
--It consists of 17 columns and 1000 rows, including information such as invoice IDs, branch details, customer types, product lines, prices, quantities, VAT, dates, times, payment methods, COGS, gross margin percentages, gross incomes, and ratings.
+- It consists of 17 columns and 1000 rows, including information such as invoice IDs, branch details, customer types, product lines, prices, quantities, VAT, dates, times, payment methods, COGS, gross margin percentages, gross incomes, and ratings.
 
 ## **Column Details**
 
@@ -37,17 +37,17 @@ The primary objectives of this project are as follows:
 - rating: Customer rating (FLOAT, 2 digits with 1 decimal place)
 
 ## **Approach Used**
-1.	Data Wrangling: 
+### **1.	Data Wrangling:** 
 - Inspect data for NULL values and replace missing data.
-2.	Database Construction: 
+### **2. Database Construction:**
 -	Create tables and insert data.
 - Set NOT NULL constraints to filter out null values.
-3.	Feature Engineering: 
--	Add new columns: 
-   - time_of_day: Insight into sales during morning, afternoon, and evening.
-	 - day_name: Extracted days of the week (Mon, Tue, Wed, Thur, Fri) to analyze weekly patterns.
-   -  month_name: Extracted months (Jan, Feb, Mar) to determine peak sales months.
-4.	Exploratory Data Analysis (EDA): 
+### **3.	Feature Engineering:**
+**-	Add new columns:**
+   **- time_of_day:** Insight into sales during morning, afternoon, and evening.
+	 **- day_name:** Extracted days of the week (Mon, Tue, Wed, Thur, Fri) to analyze weekly patterns.
+   **-  month_name:** Extracted months (Jan, Feb, Mar) to determine peak sales months.
+### **4.	Exploratory Data Analysis (EDA):** 
 -	Answer project-specific questions using data insights.
   
 ## **Usage**
