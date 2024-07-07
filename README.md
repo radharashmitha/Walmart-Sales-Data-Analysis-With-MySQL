@@ -1,18 +1,21 @@
 # Walmart-Sales-Data-Analysis-With-MySQL
-**About**
+**About:**
+
 The Walmart Sales Data Analysis project is designed to delve into Walmart’s sales data to identify high-performing branches and products, analyze sales trends, and understand customer behavior. The goal is to enhance and refine sales strategies. Data for this study comes from the Kaggle Walmart Sales Forecasting Competition, which includes historical sales data from 45 Walmart stores across various regions. Participants are tasked with forecasting sales for each department within these stores, taking into account the impact of holiday markdown events on sales.
 
-**Project Objectives**
+**Project Objectives:**
+
 The primary objectives of this project are as follows:
 
-Understand the factors influencing sales across different Walmart branches.
-Analyze product performance and identify areas for improvement.
-Explore sales trends to evaluate the effectiveness of sales strategies.
-Segment customers based on purchasing behavior and profitability.
+1)Understand the factors influencing sales across different Walmart branches.
+2)Analyze product performance and identify areas for improvement.
+3)Explore sales trends to evaluate the effectiveness of sales strategies.
+4)Segment customers based on purchasing behavior and profitability.
 
-**Dataset Description**
-The dataset contains sales transactions from three Walmart branches located in Mandalay, Yangon, and Naypyitaw.
-It consists of 17 columns and 1000 rows, including information such as invoice IDs, branch details, customer types, product lines, prices, quantities, VAT, dates, times, payment methods, COGS, gross margin percentages, gross incomes, and ratings.
+**Dataset Description:**
+
+1)The dataset contains sales transactions from three Walmart branches located in Mandalay, Yangon, and Naypyitaw.
+2)It consists of 17 columns and 1000 rows, including information such as invoice IDs, branch details, customer types, product lines, prices, quantities, VAT, dates, times, payment methods, COGS, gross margin percentages, gross incomes, and ratings.
 
 **Column Details:**
 invoice_id: Invoice of the sales made (VARCHAR, 30 characters)
