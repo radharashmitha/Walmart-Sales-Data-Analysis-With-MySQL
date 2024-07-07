@@ -1,0 +1,1 @@
+SELECT * FROM salesdatawalmart.salesdata;
